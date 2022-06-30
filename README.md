@@ -1,2 +1,3 @@
 # tierra_girando
-[![Tierra-girando.png](https://i.postimg.cc/7hJ9ZtLG/Tierra-girando.png)](https://postimg.cc/m1RCdwCB)
+
+![Tierra_girando](https://user-images.githubusercontent.com/82245545/176718597-ef99ac54-c3a8-4bd4-b2e8-1db130865a5e.png)

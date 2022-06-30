@@ -1,2 +1,2 @@
 # tierra_girando
-[![air-avion.png](https://i.postimg.cc/xTVqZbn9/air-avion.png)](https://postimg.cc/Z0jTBnWQ)
+[![Tierra-girando.png](https://i.postimg.cc/7hJ9ZtLG/Tierra-girando.png)](https://postimg.cc/m1RCdwCB)
